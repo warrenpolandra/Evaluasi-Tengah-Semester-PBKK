@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CopyComplete
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\ASUS\source\repos\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
